@@ -1,0 +1,532 @@
+*{
+  padding: 0;
+  margin: 0; 
+}
+.exp{
+    background-color:#dc3545;
+    margin-top: 15px;
+    color: white;
+}
+#riz32323{
+    margin: 10px;
+}
+
+
+
+nav{
+    height: 80px;
+    background-color: white; 
+}
+
+#grayline{
+    background-color: #b3b2b2;
+    height: 25px;
+   padding-left: 70%;
+    color: white;
+   margin-top: -10px;
+}
+#one
+
+{
+    background-color: #00a8f7;
+    margin-top: 20px;
+}
+#history
+{
+    margin-top: 20px;
+}
+#history1
+{
+    background-color: #00a8f7;
+    height: 350px;
+}
+.line131{
+    background-color:#dc3545 ;
+    height: 5px;
+    width: 15%;
+    margin-bottom: 20px;
+   
+}
+#history2
+{
+    height: 350px;
+   margin-top: 20px;
+}
+
+
+.blog88{
+    background-color: #00a8f7;
+    height: 350px;
+
+    margin-top: 20px;
+
+
+}
+
+.showtext
+
+{
+    display: none;
+}
+
+
+
+
+.blog797
+{
+    background-color: #00a8f7;
+    height: 400px;
+
+   
+}
+
+
+
+#head89{
+    padding-top: 35px;
+    color: white;
+    padding-left: 10px;
+    
+}
+
+.line2{
+    height: 5px;
+    width: 30%;
+    background-color: white;
+    margin-left: 10px;
+    
+    }
+
+    /* #navbar ul li a:hover{
+        color: #dc3545;
+        }
+    
+         #menu:visited {
+            color: green;
+          }
+
+
+
+
+        #navbar ul li a{
+            color: black;
+            } */
+
+
+            #navbarmenu
+            {
+                color: black;
+            }
+            #navbarmenu:hover{
+                color:  #dc3545;
+            }
+
+            #navbarmenu:active
+            {
+                color: navy;
+            }
+
+#para37{
+    padding-left: 10px;
+    color: white;
+}
+
+
+
+    #para37 a{ text-decoration: none;
+        color: #dc3545;
+
+    }
+
+
+    .back898{
+        background-color: #00a8f7;
+        height: 400px;
+    }
+
+   .content h4{
+    padding-top: 5%;
+    color: white;
+    padding-left: 20px;
+   
+   }
+
+   .line545{
+width: 15%;
+height: 5px;
+background-color: white;
+margin-left: 20px;
+}
+
+.line2323{
+    padding-left: 20px;
+    color: white;
+}
+
+.line021{
+    padding-left: 20px;
+    color: white;
+   
+}
+
+.line021 a{
+    text-decoration: none;
+    color: #dc3545;
+}
+
+#para7894{
+    text-align: center;
+
+}
+
+.blog95{
+    background-color: #dbe5e9;
+    height: 550px;
+   
+}
+
+.blog95 h4{
+    padding-top: 20px;
+}
+#dearalpine78{
+  
+    text-align: center;
+ height: 220px;
+    padding-top: 30px;
+    font-size: 14px;
+}
+
+#why1
+{
+    background-color: #00a8f7;
+ 
+
+}
+.whybook{
+    background-color: #00a8f7;
+height: 400px;
+font-size: 24px;
+color: white;
+
+}
+
+.whybook center {
+    color: white;
+    font-size: 27.2px;
+    padding-top: 20px;
+}
+
+.why594 b{
+    color: white;
+    font-size: 20px;
+}
+
+
+.line7{
+    background-color:white ;
+    height: 2px;
+    width: 25%;
+}
+
+
+.why594 p {
+   color: white;
+}
+
+.sign98{
+    text-align: center;
+    padding-top: 20PX;
+    background-color:#dbe5e9;
+height: 80px;
+}
+
+
+.sign988{
+    text-align: center;
+    font-size: 21px;
+    color: #b3b2b2;
+}
+
+.footer20{
+    background-color: black;
+    height: 110px;
+    color: #999999;
+    text-align: center;
+    padding-top: 10px;  
+}
+
+/* #riz88{
+    width: 100%;
+    height: 40%;
+} */
+
+#test
+{
+    margin-top: -80px;
+}
+
+
+
+
+
+.last324{
+    background-color: black;
+}
+
+.lin323{
+    width: 10%;
+    height: 5px;
+    background-color: #dc3545;
+    margin-top: -190px;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+.whixh{
+  
+    font-size: 20px;
+    
+}
+
+.smline4{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 27.2px;
+}
+
+#btn12{
+    width: 100%;
+}
+
+
+
+
+#width1{
+    width: 30%;
+    border-color: white;
+
+}
+
+
+
+
+.line4{
+    width: 10%;
+    height: 5px;
+    background-color: #dc3545;
+}
+
+.backhdhd8{
+    background-color: #dbe5e9;
+}
+
+
+.vl1 {
+    border-left: 1px solid lightgray;
+    height: 1000px;
+    margin-left: 40px;
+    margin-top: 90%;}
+
+
+    .vl2 {
+        border-left: 1px solid lightgray;
+        height: 11000px;
+        margin-left: 40px;
+        margin-top: 80%;}
+    
+
+        .vl3 {
+            border-left: 1px solid lightgray;
+            height: 8000px;
+            margin-left: 40px;
+            margin-top: 80%;}
+        
+    
+
+            .vl4 {
+                border-left: 1px solid lightgray;
+                height: 10000px;
+                margin-left: 40px;
+                margin-top: 80%;}
+            
+        
+                .vl23{
+                    border-left: 1px solid lightgray;
+                    height:6000px;
+                    margin-left: 40px;
+                    margin-top: 80%;}
+
+
+    .back73{
+        background-color: #dbe5e9;
+    }
+
+.bg890{
+    background-color: #00a8f7;
+    height: 400px;
+    color: white;
+    padding-left: 10px;
+}
+
+.hazards12{
+    display: none;
+}
+
+
+.sheltering01{
+    display: none;
+}
+
+
+.types01{
+    display: none;
+}
+
+
+.tech{
+    display: none;
+}
+
+
+.general897{
+    display: none;
+}
+
+
+.records9238{
+    display: none;
+}
+
+.backg43{
+    display: none; 
+}
+
+
+.reg34{
+    display: none; 
+
+}
+
+
+
+.myVideo{
+    width: 100%;
+  
+    min-width: 100%;
+left: 0;
+    right: 0;
+  
+}
+
+
+    
+
+.latestd{
+    display: none; 
+}
+
+
+
+#riz6762{
+    margin: 20px;
+}
+
+
+
+
+
+figure{
+  display: inline;
+ 
+
+ 
+}
+
+.zoom12{
+transition: 1s;
+}
+.zoom12:hover{
+transform: scale(1.3);
+}
+
+.zoom13{
+    transition: 1s;
+    }
+    .zoom13:hover{
+    transform: scale(1.1);
+    }
+    
+
+    #dssd5{
+        background-color: black;
+        color: darkgray;
+   
+    }
+
+
+ .hov773:hover{
+    color: #dc3545;
+ }
+
+ #topp10{
+    padding-top: 40px;
+ }
+
+
+
+ #btn{
+    margin-top: -50px;
+
+ }
+
+#counter
+
+{
+    top: 20px;
+}
+
+/* map */
+/* 
+ * Always set the map height explicitly to define the size of the div element
+ * that contains the map. 
+ */
+ #map {
+    height: 50%;
+    width: 82%;
+    margin: auto;
+  }
+  
+  /* 
+   * Optional: Makes the sample page fill the window. 
+   */
+  html,
+  body {
+    height: 100%;
+    /* margin: 0;
+    padding: 0; */
+  }
+  
+  .custom-map-control-button {
+    background-color: #fff;
+    border: 0;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px -1px rgba(0, 0, 0, 0.3);
+    margin: 10px;
+    padding: 0 0.5em;
+    font: 400 18px Roboto, Arial, sans-serif;
+    overflow: hidden;
+    height: 40px;
+    cursor: pointer;
+  }
+  .custom-map-control-button:hover {
+    background: rgb(235, 235, 235);
+  }
+  
+  .top1{
+    margin-top: -15px;
+  }
